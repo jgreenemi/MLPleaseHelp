@@ -1,14 +1,23 @@
 $(document).ready(function(){
-    console.log("ml-display has loaded.");
-    
     retrieveDictionary();
 });
 
 
 function retrieveDictionary(){
     $.getScript('js/ml-assets.js', function(){
-        for (var [key, value] of mlAssetsDict) {
-            console.log(key + ' = ' + value);
+        for (var mlAsset of mlAssets) {
+            console.log(mlAsset['Name']);
+            $('#resources_box').append(
+                $('<div/>')
+                    .attr('id', mlAsset['Name'])
+                    .addClass('resource_entry')
+                    .append(
+                        '<a href=\"' +
+                        mlAsset['Link'] + '\">' + 
+                        mlAsset['Name'] + '</a>: ' + 
+                        mlAsset['Description']
+                        )
+            );
         }
     });
 };

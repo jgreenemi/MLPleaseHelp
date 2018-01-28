@@ -33,3 +33,23 @@ img {
     margin:0 auto;
     margin-top:150px;
 }
+
+#resources_box {
+    display:block;
+    position:relative;
+    text-align:center;
+    height:auto;
+    width:80%;
+    margin:0 auto;
+}
+
+.resource_entry {
+    display:block;
+    position:relative;
+    text-align:left;
+    height:auto;
+    width:100%;
+    margin:0 auto;
+    margin-top:10px;
+    color:black;
+}
