@@ -6,7 +6,6 @@ $(document).ready(function(){
 function retrieveDictionary(){
     $.getScript('js/ml-assets.js', function(){
         for (var mlAsset of mlAssets) {
-            console.log(mlAsset['Name']);
             $('#resources_box').append(
                 $('<div/>')
                     .attr('id', mlAsset['Name'])
