@@ -2,6 +2,9 @@
 <html>
     <head>
 
+        <!-- This makes it easy to do live style updates. Remove for production. -->
+        <!--<meta http-equiv="refresh" content="2" ><!---->
+
         <meta charset="utf-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
@@ -9,6 +12,8 @@
         
         <link rel="stylesheet" type="text/css" href="https://www.jgreenemi.com/assets/built/screen.css?v=02377c9caf" />
         <link rel="stylesheet" type="text/css" href="https://www.jgreenemi.com/assets/css/prism-okaidia.css?v=02377c9caf" />
+        
+        
         
         <style type="text/css">
         /* Ghost messes up images on mobile, so this 
@@ -28,10 +33,31 @@
             margin-bottom: -13px;
             border-radius: 5px;
         }
+        
+        .searchbox_container {
+            display:block;
+            position:relative;
+            width:100%;
+            height:400px;
+            text-align:center;
+        }
+        
+        #searchbox {
+            display:block;
+            position:relative;
+            text-align:center;
+            height:50px;
+            width:400px;
+            margin:0 auto;
+            margin-top:150px;
+        }
         </style>
     </head>
 
     <body>
+        <div class="searchbox_container">
+            <input id="searchbox" type="text" />
+        </div>
     </body>
 
 </html>
