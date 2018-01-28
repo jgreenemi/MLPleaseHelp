@@ -1,4 +1,5 @@
 $(document).ready(function(){
+    $.getScript('js/simple-filter.js');
     retrieveDictionary();
 });
 
@@ -11,10 +12,11 @@ function retrieveDictionary(){
                     .attr('id', mlAsset['Name'])
                     .addClass('resource_entry')
                     .append(
-                        '<a href=\"' +
+                        '<span><a href=\"' +
                         mlAsset['Link'] + '\">' + 
                         mlAsset['Name'] + '</a>: ' + 
-                        mlAsset['Description']
+                        mlAsset['Description'] +
+                        '</span>'
                         )
             );
         }

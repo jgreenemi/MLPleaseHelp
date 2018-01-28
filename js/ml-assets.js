@@ -1,13 +1,10 @@
 /* To add new entries, make a new map entry like so, making sure to increment the Resource number:
-
 {
     "Name": "Parris",
     "Description": "Parris, the automated infrastructure setup tool for machine learning algorithms.",
     "Link": "https://github.com/jgreenemi/Parris",
 },
-  
- */
-
+*/
 
 
 var mlAssets = [
