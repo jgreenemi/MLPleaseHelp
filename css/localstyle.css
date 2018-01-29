@@ -10,11 +10,12 @@ img {
     position: fixed;
     left: 0;
     bottom: 0;
-    height:104px;
+    height:45px;
     width:100%;
     background-color: #313131;
     color:white;
     text-align:center;
+    line-height:45px;
 }
 
 #titlebox {
