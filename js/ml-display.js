@@ -4,16 +4,13 @@ $(document).ready(function(){
 
     // Populate the page with resources, and pull out the total number of resources.
     var total_count_of_resources = retrieveDictionary();
-
+    
     // Set the initial count of resource entries since this doesn't get updated until a filter starts.
     updateCount(total_count_of_resources);
 });
 
-
 function retrieveDictionary(){
-    var count;
     $.getScript('js/ml-assets.js', function(){
-        count = mlAssets.length;
         for (var mlAsset of mlAssets) {
             if (mlAsset['Name'] != ""){
                 $('#resources_box').append(
@@ -30,13 +27,10 @@ function retrieveDictionary(){
                             '</span>'
                             )
                 );
-            } else {
-                // If we've found an element that is not valid (missing name, empty placeholder entry), decrement the counter accordingly.
-                count -= 1;
             }
         }
     });
-    return count;
+    return mlAssets.length;
 };
 
 function updateCount(count){
