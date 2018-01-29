@@ -47,6 +47,7 @@ img {
 
 .input_box_container {
     display:block;
+    width:100%;
     margin-top:5px;
     margin-bottom:5px;
 }
