@@ -31,7 +31,7 @@ img {
     padding-right:5%;
     text-align:right;
     margin-top:20px;
-    margin-bottom:40px;
+    padding-bottom:0px;
 }
 
 .searchbox_container {
@@ -40,7 +40,9 @@ img {
     width:100%;
     height:auto;
     text-align:center;
+    margin-top:20px;
     margin-bottom:40px;
+    padding-top:0px;
 }
 
 .input_box_container {
@@ -65,7 +67,6 @@ img {
     height:50px;
     width:400px;
     margin:0 auto;
-    margin-top:50px;
 }
 
 #counter_box {
