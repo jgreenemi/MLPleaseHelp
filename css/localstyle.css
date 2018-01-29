@@ -18,6 +18,11 @@ img {
     line-height:45px;
 }
 
+.right-align {
+    display:block;
+    text-align:right;
+}
+
 #titlebox {
     display:block;
     position:relative;
