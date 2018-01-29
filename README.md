@@ -34,6 +34,10 @@ All entries should look similar to the following:
 },
 ```
 
+## Known Issues ##
+
+- Internet Explorer: The retrieval of data in this browser results in "undefined" values. This issue is not seen on Google Chrome, Mozilla Firefox, or Opera browsers.
+
 ## Contact ##
 
 * Joseph Greene, [jgreenemi@gmail.com](mailto:jgreenemi@gmail.com)
