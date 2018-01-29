@@ -21,6 +21,19 @@ img {
     margin-top:150px;
 }
 
+#counter_box {
+    display:block;
+    position:relative;
+    text-align:center;
+    height:auto;
+    width:auto;
+    margin:0 auto;
+}
+
+#counter {
+    font-weight: bold;
+}
+
 #resources_box {
     display:block;
     position:relative;
