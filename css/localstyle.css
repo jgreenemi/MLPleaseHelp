@@ -10,20 +10,11 @@ img {
     position: fixed;
     left: 0;
     bottom: 0;
+    height:40px;
     width:100%;
-    background-color:#313131;
+    background-color: #313131;
     color:white;
     text-align:center;
-}
-
-.navbar-nav {
-    text-align: center;
-    float:none;
-}
-
-.navbar-nav li {
-    display:inline-block;
-    float:none;
 }
 
 #titlebox {
