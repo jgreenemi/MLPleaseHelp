@@ -4,7 +4,7 @@ $(document).ready(function(){
 
     // Populate the page with resources, and pull out the total number of resources.
     var total_count_of_resources = retrieveDictionary();
-    
+
     // Set the initial count of resource entries since this doesn't get updated until a filter starts.
     updateCount(total_count_of_resources);
 });
