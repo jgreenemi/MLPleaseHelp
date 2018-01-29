@@ -1,5 +1,7 @@
 # README #
 
+![Banner Image](/img/banner.png)
+
 [MLPleaseHelp](https://jgreenemi.github.io/MLPleaseHelp/) is a simple ML resource search engine.
 
 ## How To Use ##
