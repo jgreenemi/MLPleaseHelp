@@ -11,7 +11,9 @@ $(document).ready(function(){
 
 
 function retrieveDictionary(){
+    var count;
     $.getScript('js/ml-assets.js', function(){
+        count = mlAssets.length;
         for (var mlAsset of mlAssets) {
             if (mlAsset['Name'] != ""){
                 $('#resources_box').append(
@@ -28,10 +30,13 @@ function retrieveDictionary(){
                             '</span>'
                             )
                 );
+            } else {
+                // If we've found an element that is not valid (missing name, empty placeholder entry), decrement the counter accordingly.
+                count -= 1;
             }
         }
     });
-    return mlAssets.length;
+    return count;
 };
 
 function updateCount(count){
