@@ -6,6 +6,16 @@ img {
     max-width:100%!important;
 }
 
+#footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width:100%;
+    background-color:#313131;
+    color:white;
+    text-align:center;
+}
+
 .navbar-nav {
     text-align: center;
     float:none;
