@@ -1,5 +1,7 @@
 # README #
 
+MLPleaseHelp is a simple ML resource search engine.
+
 ## How To Use ##
 
 **This has not yet been made into a hosted page, that'll be set up soon. In the meantime you can run a local build.**
