@@ -79,4 +79,11 @@ var mlAssets = [
     "Keywords": "Class, Education, Blog, Reading",
     "LastUpdatedDate": "2018/01/28",
 },
+{
+    "Name": "Neural Networks and Deep Learning",
+    "Description": "Neural Networks and Deep Learning is a free online book. The book will teach you about:  Neural networks, a beautiful biologically-inspired programming paradigm which enables a computer to learn from observational data, and Deep learning, a powerful set of techniques for learning in neural networks",
+    "Link": "http://neuralnetworksanddeeplearning.com/",
+    "Keywords": "Neural Networks, Deep Learning",
+    "LastUpdatedDate": "2018/1/29",
+},
 ]
