@@ -38,6 +38,21 @@ img {
     margin-bottom:40px;
 }
 
+.input_box_container {
+    display:block;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+
+.formatter_input_container {
+    display:block;
+    position:relative;
+    width:50%;
+    height:auto;
+    text-align:left;
+    margin:0 auto;
+}
+
 #searchbox {
     display:block;
     position:relative;
