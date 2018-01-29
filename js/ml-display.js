@@ -12,10 +12,12 @@ function retrieveDictionary(){
                     .attr('id', mlAsset['Name'])
                     .addClass('resource_entry')
                     .append(
-                        '<span><a href=\"' +
+                        '<a href=\"' +
                         mlAsset['Link'] + '\">' + 
                         mlAsset['Name'] + '</a>: ' + 
                         mlAsset['Description'] +
+                        '<span class="keywords"> ' +
+                        mlAsset['Keywords'] +
                         '</span>'
                         )
             );
