@@ -1,10 +1,10 @@
 # README #
 
-MLPleaseHelp is a simple ML resource search engine.
+[MLPleaseHelp](https://jgreenemi.github.io/MLPleaseHelp/) is a simple ML resource search engine.
 
 ## How To Use ##
 
-**This has not yet been made into a hosted page, that'll be set up soon. In the meantime you can run a local build.**
+You can use this search engine [right now at https://jgreenemi.github.io/MLPleaseHelp/](https://jgreenemi.github.io/MLPleaseHelp/), provided via Github Pages. 
 
 ## Building Locally ##
 
