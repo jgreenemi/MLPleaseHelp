@@ -17,6 +17,13 @@ Note:
 
 var mlAssets = [
 {
+    "Name": "Roadmap to Machine Learning",
+    "Description": "A complete, open source roadmap designed to take you from zero knowledge up to machine learning expertise. It includes resources such as ML and relevant math/programming courses, books and public datasets.",
+    "Link": "https://howicodestuff.github.io/machine_learning/2018/01/12/a-roadmap-to-machine-learning.html",
+    "Keywords": "Roadmap, Python, Blog, Education, Reading",
+    "LastUpdatedDate": "2018/01/29",
+},
+{
     "Name": "Parris",
     "Description": "Parris, the automated infrastructure setup tool for machine learning algorithms.",
     "Link": "https://github.com/jgreenemi/Parris",
