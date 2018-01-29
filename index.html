@@ -17,8 +17,13 @@
     </head>
 
     <body>
+        <div id="titlebox">
+            <img src="img/banner.png" /><br />
+            <span class="right-align">To use: Type a keyword into the searchbox to filter the list of resources.</span>
+        </div>
+    
         <div class="searchbox_container">
-            <input id="searchbox" type="text" onkeyup="simpleFilter()" />
+            <input id="searchbox" type="text" onkeyup="advancedFilter()" autofocus="autofocus" />
         </div>
 
         <div id="counter_box">
