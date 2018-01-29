@@ -3,6 +3,8 @@
     "Name": "Parris",
     "Description": "Parris, the automated infrastructure setup tool for machine learning algorithms.",
     "Link": "https://github.com/jgreenemi/Parris",
+    "Keywords": "Python, AWS",
+    "LastUpdatedDate": "2018/01/28",
 },
 */
 
