@@ -166,4 +166,12 @@ var mlAssets = [
     "Keywords": "Python, AWS",
     "LastUpdatedDate": "2018/01/28",
 },
+{
+    "Name":"Momentum",
+    "Description" : "Why Momentum Really Works?",
+    "Link" : "https://distill.pub/2017/momentum/",
+    "Keywords": "Momentum, Optimizer",
+    "LastUpdatedDate" : "2018/01/31",
+
+},
 ]
