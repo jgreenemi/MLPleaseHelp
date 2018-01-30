@@ -20,6 +20,13 @@ Note:
 
 var mlAssets = [
 {
+    "Name": "cnn-text-classification-tf: Implementing a CNN for Text Classification in TensorFlow",
+    "Description": "Convolutional Neural Network for Text Classification in Tensorflow",
+    "Link": "https://github.com/dennybritz/cnn-text-classification-tf",
+    "Keywords": "library, examples, tf, cnn, reading, blog",
+    "LastUpdatedDate": "2018/1/30",
+},
+{
     "Name": "deeplearning.ai",
     "Description": "Courses served via Coursera with a focus in deep learning, provided by noted machine learning professor Andrew Ng.",
     "Link": "https://www.deeplearning.ai/",
