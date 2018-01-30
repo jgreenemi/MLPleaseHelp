@@ -20,6 +20,13 @@ Note:
 
 var mlAssets = [
 {
+    "Name": "Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares",
+    "Description": "Book on Linear Algebra from Stephen Boyd and Lieven Vandenberghe",
+    "Link": "https://web.stanford.edu/%7Eboyd/vmls/",
+    "Keywords": "book, reading, math",
+    "LastUpdatedDate": "2018/1/30",
+},
+{
     "Name": "cnn-text-classification-tf: Implementing a CNN for Text Classification in TensorFlow",
     "Description": "Convolutional Neural Network for Text Classification in Tensorflow by Denny Britz",
     "Link": "https://github.com/dennybritz/cnn-text-classification-tf",
