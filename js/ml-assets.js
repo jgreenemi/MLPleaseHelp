@@ -20,6 +20,13 @@ Note:
 
 var mlAssets = [
 {
+    "Name": "deeplearning.ai",
+    "Description": "Courses served via Coursera with a focus in deep learning, provided by noted machine learning professor Andrew Ng.",
+    "Link": "https://www.deeplearning.ai/",
+    "Keywords": "deep learning, neural networks, courses, classes, education, coursera",
+    "LastUpdatedDate": "2018/1/30",
+},
+{
     "Name": "Various Machine Learning Books",
     "Description": "Important books for Machine Learning and DBMS and programming languages",
     "Link": "https://github.com/jonesgithub/book-1",
