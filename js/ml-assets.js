@@ -20,6 +20,13 @@ Note:
 
 var mlAssets = [
 {
+    "Name": "Arxiv Sanity Preserver",
+    "Description": "Built in spare time by @karpathy to accelerate research. A search tool for finding research papers relevant to machine learning and computer science practitioners.",
+    "Link": "http://www.arxiv-sanity.com/",
+    "Keywords": "Andrej Karpathy,arxiv,tool,meta,papers,reading",
+    "LastUpdatedDate": "2018/1/31",
+},
+{
     "Name": "Text Classification Using a Convolutional Neural Network on MXNet",
     "Description": "This tutorial is based of Yoon Kim’s paper on using convolutional neural networks for sentence sentiment classification.",
     "Link": "https://mxnet.incubator.apache.org/tutorials/nlp/cnn.html",
