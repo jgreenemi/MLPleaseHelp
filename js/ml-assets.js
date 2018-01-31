@@ -174,4 +174,25 @@ var mlAssets = [
     "LastUpdatedDate" : "2018/01/31",
 
 },
+{
+    "Name":"Learn Opencv",
+    "Description":"Tutorial on Opencv with machine learning and deep learning",
+    "Link" : "http://www.learnopencv.com/",
+    "Keywords": "Image Processing,Opencv,Image",
+    "LastUpdatedDate" : "2018/02/01",
+},
+{
+    "Name":"Good books for learning AI",
+    "Description":"Books for Learning Artificial Intelligence",
+    "Link" : "https://www.analyticsvidhya.com/blog/2015/10/read-books-for-beginners-machine-learning-artificial-intelligence/",
+    "Keywords": "Books,Artificial Intelligence,AI,analyticsvidhya",
+    "LastUpdatedDate" : "2018/02/01",
+},
+{
+    "Name":"Chess AI",
+    "Description":"building simple AI for playing chess",
+    "Link" : "https://medium.freecodecamp.org/simple-chess-ai-step-by-step-1d55a9266977",
+    "Keywords": "Artificial Intelligence,AI,Chess,Tutorial",
+    "LastUpdatedDate" : "2018/02/01",
+},
 ]
