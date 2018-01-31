@@ -20,6 +20,35 @@ Note:
 
 var mlAssets = [
 {
+    "Name":"Learn OpenCV",
+    "Description":"Tutorial on OpenCV with machine learning and deep learning",
+    "Link" : "http://www.learnopencv.com/",
+    "Keywords": "Image Processing,Opencv,Image",
+    "LastUpdatedDate" : "2018/02/01",
+},
+{
+    "Name":"Good books for learning AI",
+    "Description":"Books for Learning Artificial Intelligence",
+    "Link" : "https://www.analyticsvidhya.com/blog/2015/10/read-books-for-beginners-machine-learning-artificial-intelligence/",
+    "Keywords": "Books,Artificial Intelligence,AI,analyticsvidhya",
+    "LastUpdatedDate" : "2018/02/01",
+},
+{
+    "Name":"Chess AI",
+    "Description":"building simple AI for playing chess",
+    "Link" : "https://medium.freecodecamp.org/simple-chess-ai-step-by-step-1d55a9266977",
+    "Keywords": "Artificial Intelligence,AI,Chess,Tutorial",
+    "LastUpdatedDate" : "2018/02/01",
+},
+{
+    "Name":"Momentum",
+    "Description" : "Why Momentum Really Works?",
+    "Link" : "https://distill.pub/2017/momentum/",
+    "Keywords": "Momentum, Optimizer",
+    "LastUpdatedDate" : "2018/01/31",
+
+},
+{
     "Name": "Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares",
     "Description": "Book on Linear Algebra from Stephen Boyd and Lieven Vandenberghe",
     "Link": "https://web.stanford.edu/%7Eboyd/vmls/",
@@ -172,34 +201,5 @@ var mlAssets = [
     "Link": "https://github.com/jgreenemi/Parris",
     "Keywords": "Python, AWS",
     "LastUpdatedDate": "2018/01/28",
-},
-{
-    "Name":"Momentum",
-    "Description" : "Why Momentum Really Works?",
-    "Link" : "https://distill.pub/2017/momentum/",
-    "Keywords": "Momentum, Optimizer",
-    "LastUpdatedDate" : "2018/01/31",
-
-},
-{
-    "Name":"Learn Opencv",
-    "Description":"Tutorial on Opencv with machine learning and deep learning",
-    "Link" : "http://www.learnopencv.com/",
-    "Keywords": "Image Processing,Opencv,Image",
-    "LastUpdatedDate" : "2018/02/01",
-},
-{
-    "Name":"Good books for learning AI",
-    "Description":"Books for Learning Artificial Intelligence",
-    "Link" : "https://www.analyticsvidhya.com/blog/2015/10/read-books-for-beginners-machine-learning-artificial-intelligence/",
-    "Keywords": "Books,Artificial Intelligence,AI,analyticsvidhya",
-    "LastUpdatedDate" : "2018/02/01",
-},
-{
-    "Name":"Chess AI",
-    "Description":"building simple AI for playing chess",
-    "Link" : "https://medium.freecodecamp.org/simple-chess-ai-step-by-step-1d55a9266977",
-    "Keywords": "Artificial Intelligence,AI,Chess,Tutorial",
-    "LastUpdatedDate" : "2018/02/01",
 },
 ]
