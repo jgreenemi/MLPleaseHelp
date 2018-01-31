@@ -18,6 +18,6 @@ function formatAndOutput(){
         '",\n    "Link": "' + resource_link +
         '",\n    "Keywords": "' + resource_keywords +
         '",\n    "LastUpdatedDate": "' + resource_updated_date +
-        '",\n},\n'
+        '",\n},'
     );
 };
