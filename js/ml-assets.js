@@ -20,6 +20,13 @@ Note:
 
 var mlAssets = [
 {
+    "Name": "MXNet Gluon - Introduction - The Straight Dope",
+    "Description": "An introduction to the MXNet Gluon interface for building machine learning models.",
+    "Link": "http://gluon.mxnet.io/chapter01_crashcourse/introduction.html",
+    "Keywords": "mxnet,library,interface,tools,reading,tutorials",
+    "LastUpdatedDate": "2018/1/31",
+},
+{
     "Name": "Arxiv Sanity Preserver",
     "Description": "Built in spare time by @karpathy to accelerate research. A search tool for finding research papers relevant to machine learning and computer science practitioners.",
     "Link": "http://www.arxiv-sanity.com/",
