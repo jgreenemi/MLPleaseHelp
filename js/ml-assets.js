@@ -20,6 +20,13 @@ Note:
 
 var mlAssets = [
 {
+    "Name": "Text Classification Using a Convolutional Neural Network on MXNet",
+    "Description": "This tutorial is based of Yoon Kim’s paper on using convolutional neural networks for sentence sentiment classification.",
+    "Link": "https://mxnet.incubator.apache.org/tutorials/nlp/cnn.html",
+    "Keywords": "mxnet,cnn,convolutional neural network,convnet",
+    "LastUpdatedDate": "2018/1/31",
+},
+{
     "Name": "Intro to Statistics: Making Decisions Based on Data",
     "Description": "Statistics is about extracting meaning from data. In this class, we will introduce techniques for visualizing relationships in data and systematic techniques for understanding the relationships using mathematics.",
     "Link": "https://www.udacity.com/course/intro-to-statistics--st101",
