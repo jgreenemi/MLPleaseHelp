@@ -20,6 +20,13 @@ Note:
 
 var mlAssets = [
 {
+    "Name": "Intro to Statistics: Making Decisions Based on Data",
+    "Description": "Statistics is about extracting meaning from data. In this class, we will introduce techniques for visualizing relationships in data and systematic techniques for understanding the relationships using mathematics.",
+    "Link": "https://www.udacity.com/course/intro-to-statistics--st101",
+    "Keywords": "class,education,udacity,statistics,math",
+    "LastUpdatedDate": "2018/1/31",
+},
+{
     "Name": "Machine Learning Glossary by Google",
     "Description": "This glossary defines general machine learning terms as well as terms specific to TensorFlow.",
     "Link": "https://developers.google.com/machine-learning/glossary/",
