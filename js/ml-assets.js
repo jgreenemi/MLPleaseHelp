@@ -20,6 +20,13 @@ Note:
 
 var mlAssets = [
 {
+    "Name": "Deep Deterministic Policy Gradients in TensorFlow",
+    "Description": "An example of using TensorFlow in reinforcement learning, from Patrick Emami.",
+    "Link": "http://pemami4911.github.io/blog/2016/08/21/ddpg-rl.html",
+    "Keywords": "tf,tensorflow,blog,reading,examples,reinforcement learning,rl",
+    "LastUpdatedDate": "2018/2/1",
+},
+{
     "Name": "astorfi/TensorFlow-World-Resources",
     "Description": "📡 Organized & Useful Resources about Deep Learning with TensorFlow",
     "Link": "https://github.com/astorfi/TensorFlow-World-Resources",
