@@ -20,6 +20,13 @@ Note:
 
 var mlAssets = [
 {
+    "Name": "broadinstitute/keras-rcnn",
+    "Description": "Keras package for region-based convolutional neural networks",
+    "Link": "https://github.com/broadinstitute/keras-rcnn",
+    "Keywords": "framework,examples,python",
+    "LastUpdatedDate": "2018/2/1",
+},
+{
     "Name": "Deep Deterministic Policy Gradients in TensorFlow",
     "Description": "An example of using TensorFlow in reinforcement learning, from Patrick Emami.",
     "Link": "http://pemami4911.github.io/blog/2016/08/21/ddpg-rl.html",
