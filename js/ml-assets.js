@@ -20,6 +20,55 @@ Note:
 
 var mlAssets = [
 {
+    "Name": "GoogleCloudPlatform/cloudml-samples",
+    "Description": "Samples for Google Cloud Machine Learning Engine",
+    "Link": "https://github.com/GoogleCloudPlatform/cloudml-samples",
+    "Keywords": "gcp,google cloud platform,tutorials,",
+    "LastUpdatedDate": "2018/2/1",
+},
+{
+    "Name": "Podcast — Allen Institute for Artificial Intelligence",
+    "Description": "Adversarial Learning is a podcast from AI2 team member Joel Grus about data, data science, and science. NLP Highlights is AI2's podcast for discussing recent and interesting work related to natural language processing. Matt Gardner and Waleed Ammar, research scientists at AI2, give short discussions of papers, and occasionally interview authors about their work.",
+    "Link": "http://allenai.org/podcast.html",
+    "Keywords": "podcasts,nlp,natural language processing,",
+    "LastUpdatedDate": "2018/2/1",
+},
+{
+    "Name": "Spotify Labs",
+    "Description": "A blog with various posts covering data science topics, design challenge posts, interviews, machine learning applied to music recommendation, etc.",
+    "Link": "https://labs.spotify.com/",
+    "Keywords": "applied machine learning,data science,music,recommendation systems",
+    "LastUpdatedDate": "2018/2/1",
+},
+{
+    "Name": "Kaggle",
+    "Description": "A widely-used platform for datasets, competitions, and code kernels.",
+    "Link": "https://www.kaggle.com/",
+    "Keywords": "datasets,competitions",
+    "LastUpdatedDate": "2018/2/1",
+},
+{
+    "Name": "Datasets from the /r/bigquery Wiki",
+    "Description": "The subreddit Wiki for /r/bigquery, featuring many freely-available datasets.",
+    "Link": "https://www.reddit.com/r/bigquery/wiki/datasets",
+    "Keywords": "datasets,reddit",
+    "LastUpdatedDate": "2018/2/1",
+},
+{
+    "Name": "Awesome Public Datasets",
+    "Description": "A topic-centric list of high-quality open datasets in public domains. By everyone, for everyone!",
+    "Link": "https://github.com/awesomedata/awesome-public-datasets",
+    "Keywords": "datasets",
+    "LastUpdatedDate": "2018/2/1",
+},
+{
+    "Name": "UCI Machine Learning Repository",
+    "Description": " The UCI Machine Learning Repository is a collection of databases, domain theories, and data generators that are used by the machine learning community for the empirical analysis of machine learning algorithms. The archive was created as an ftp archive in 1987 by David Aha and fellow graduate students at UC Irvine.",
+    "Link": "http://archive.ics.uci.edu/ml/index.php",
+    "Keywords": "datasets,repo",
+    "LastUpdatedDate": "2018/2/1",
+},
+{
     "Name": "MXNet Gluon - Introduction - The Straight Dope",
     "Description": "An introduction to the MXNet Gluon interface for building machine learning models.",
     "Link": "http://gluon.mxnet.io/chapter01_crashcourse/introduction.html",
