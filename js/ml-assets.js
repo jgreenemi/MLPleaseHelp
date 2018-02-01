@@ -20,6 +20,13 @@ Note:
 
 var mlAssets = [
 {
+    "Name": "donnemartin/data-science-ipython-notebooks",
+    "Description": "Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.",
+    "Link": "https://github.com/donnemartin/data-science-ipython-notebooks",
+    "Keywords": "examples,notebooks",
+    "LastUpdatedDate": "2018/2/1",
+},
+{
     "Name": "rushter/data-science-blogs",
     "Description": "A curated list of data science blogs http://rushter.com/dsreader/",
     "Link": "https://github.com/rushter/data-science-blogs",
