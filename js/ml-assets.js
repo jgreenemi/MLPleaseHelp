@@ -20,6 +20,27 @@ Note:
 
 var mlAssets = [
 {
+    "Name": "astorfi/TensorFlow-World-Resources",
+    "Description": "📡 Organized & Useful Resources about Deep Learning with TensorFlow",
+    "Link": "https://github.com/astorfi/TensorFlow-World-Resources",
+    "Keywords": "tensorflow,tf,library,examples",
+    "LastUpdatedDate": "2018/2/1",
+},
+{
+    "Name": "aymericdamien/TensorFlow-Examples",
+    "Description": "TensorFlow Tutorial and Examples for Beginners with Latest APIs",
+    "Link": "https://github.com/aymericdamien/TensorFlow-Examples",
+    "Keywords": "tensorflow,tf,library,examples",
+    "LastUpdatedDate": "2018/2/1",
+},
+{
+    "Name": "Handwritten Digit Recognition with MXNet",
+    "Description": "In this tutorial, we’ll give you a step by step walk-through of how to build a hand-written digit classifier using the MNIST dataset. For someone new to deep learning, this exercise is arguably the “Hello World” equivalent.",
+    "Link": "https://mxnet.incubator.apache.org/tutorials/python/mnist.html",
+    "Keywords": "mxnet,library,tutorial,classification",
+    "LastUpdatedDate": "2018/2/1",
+},
+{
     "Name": "donnemartin/data-science-ipython-notebooks",
     "Description": "Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.",
     "Link": "https://github.com/donnemartin/data-science-ipython-notebooks",
