@@ -20,6 +20,13 @@ Note:
 
 var mlAssets = [
 {
+    "Name": "rushter/data-science-blogs",
+    "Description": "A curated list of data science blogs http://rushter.com/dsreader/",
+    "Link": "https://github.com/rushter/data-science-blogs",
+    "Keywords": "blogs,reading,lists",
+    "LastUpdatedDate": "2018/2/1",
+},
+{
     "Name": "GoogleCloudPlatform/cloudml-samples",
     "Description": "Samples for Google Cloud Machine Learning Engine",
     "Link": "https://github.com/GoogleCloudPlatform/cloudml-samples",
@@ -37,7 +44,7 @@ var mlAssets = [
     "Name": "Spotify Labs",
     "Description": "A blog with various posts covering data science topics, design challenge posts, interviews, machine learning applied to music recommendation, etc.",
     "Link": "https://labs.spotify.com/",
-    "Keywords": "applied machine learning,data science,music,recommendation systems",
+    "Keywords": "reading,applied machine learning,data science,music,recommendation systems",
     "LastUpdatedDate": "2018/2/1",
 },
 {
