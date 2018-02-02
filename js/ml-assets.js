@@ -20,6 +20,13 @@ Note:
 
 var mlAssets = [
 {
+    "Name": "UCL Course on RL",
+    "Description": "Advanced Topics  2015 (COMPM050/COMPGI13)  Reinforcement Learning, David Silver",
+    "Link": "http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html",
+    "Keywords": "education,class,lectures,videos",
+    "LastUpdatedDate": "2018/2/1",
+},
+{
     "Name": "Deep RL Bootcamp 26-27 August 2017   |   Berkeley CA",
     "Description": "Reinforcement learning considers the problem of learning to act and is poised to power next generation AI systems, which will need to go beyond input-output pattern recognition (as has sufficed for speech, vision, machine translation) but will have to generate intelligent behavior. Example application domains include robotics, marketing, dialogue, HVAC, optimizing healthcare and supply chains. ​This two-day long bootcamp will teach you the foundations of Deep RL through a mixture of lectures and hands-on lab sessions, so you can go on and build new fascinating applications using these techniques and maybe even push the algorithmic frontier.",
     "Link": "https://sites.google.com/view/deep-rl-bootcamp/lectures",
