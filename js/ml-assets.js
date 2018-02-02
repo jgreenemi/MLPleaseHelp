@@ -20,6 +20,13 @@ Note:
 
 var mlAssets = [
 {
+    "Name": "Deep Reinforcement Learning: Pong from Pixels",
+    "Description": "A lengthy blog post from Andrej Karpathy covering reinforcement learning applied to video games.",
+    "Link": "http://karpathy.github.io/2016/05/31/rl/",
+    "Keywords": "blog,reading,",
+    "LastUpdatedDate": "2018/2/1",
+},
+{
     "Name": "UCL Course on RL",
     "Description": "Advanced Topics  2015 (COMPM050/COMPGI13)  Reinforcement Learning, David Silver",
     "Link": "http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html",
