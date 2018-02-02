@@ -20,6 +20,13 @@ Note:
 
 var mlAssets = [
 {
+    "Name": "dennybritz/reinforcement-learning",
+    "Description": "Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course. This repository provides code, exercises and solutions for popular Reinforcement Learning algorithms. These are meant to serve as a learning tool to complement the theoretical materials from  Reinforcement Learning: An Introduction (2nd Edition) David Silver's Reinforcement Learning Course",
+    "Link": "https://github.com/dennybritz/reinforcement-learning",
+    "Keywords": "examples,Denny Britz,",
+    "LastUpdatedDate": "2018/2/1",
+},
+{
     "Name": "Chris Albon: Notes On Using Data Science & Artificial Intelligence",
     "Description": "A blog providing many examples of linear algebra and data science basics, preprocessing datasets, data wrangling, visualizations, and more.",
     "Link": "https://chrisalbon.com/",
