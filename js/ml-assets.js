@@ -20,6 +20,13 @@ Note:
 
 var mlAssets = [
 {
+    "Name": "Chris Albon: Notes On Using Data Science & Artificial Intelligence",
+    "Description": "A blog providing many examples of linear algebra and data science basics, preprocessing datasets, data wrangling, visualizations, and more.",
+    "Link": "https://chrisalbon.com/",
+    "Keywords": "reading,blog,tutorials,examples,math,linear algebra",
+    "LastUpdatedDate": "2018/2/1",
+},
+{
     "Name": "broadinstitute/keras-rcnn",
     "Description": "Keras package for region-based convolutional neural networks",
     "Link": "https://github.com/broadinstitute/keras-rcnn",
