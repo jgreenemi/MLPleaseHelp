@@ -20,6 +20,13 @@ Note:
 
 var mlAssets = [
 {
+    "Name": " Attacking Machine Learning with Adversarial Examples",
+    "Description": "Adversarial examples are inputs to machine learning models that an attacker has intentionally designed to cause the model to make a mistake; they’re like optical illusions for machines. In this post we’ll show how adversarial examples work across different mediums, and will discuss why securing systems against them can be difficult.",
+    "Link": "https://blog.openai.com/adversarial-example-research/",
+    "Keywords": "blog,reading,OpenAI",
+    "LastUpdatedDate": "2018/2/1",
+},
+{
     "Name": "Deep Reinforcement Learning: Pong from Pixels",
     "Description": "A lengthy blog post from Andrej Karpathy covering reinforcement learning applied to video games.",
     "Link": "http://karpathy.github.io/2016/05/31/rl/",
