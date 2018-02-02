@@ -20,6 +20,13 @@ Note:
 
 var mlAssets = [
 {
+    "Name": "Deep RL Bootcamp 26-27 August 2017   |   Berkeley CA",
+    "Description": "Reinforcement learning considers the problem of learning to act and is poised to power next generation AI systems, which will need to go beyond input-output pattern recognition (as has sufficed for speech, vision, machine translation) but will have to generate intelligent behavior. Example application domains include robotics, marketing, dialogue, HVAC, optimizing healthcare and supply chains. ​This two-day long bootcamp will teach you the foundations of Deep RL through a mixture of lectures and hands-on lab sessions, so you can go on and build new fascinating applications using these techniques and maybe even push the algorithmic frontier.",
+    "Link": "https://sites.google.com/view/deep-rl-bootcamp/lectures",
+    "Keywords": "class,education,videos,lectures",
+    "LastUpdatedDate": "2018/2/1",
+},
+{
     "Name": "dennybritz/reinforcement-learning",
     "Description": "Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course. This repository provides code, exercises and solutions for popular Reinforcement Learning algorithms. These are meant to serve as a learning tool to complement the theoretical materials from  Reinforcement Learning: An Introduction (2nd Edition) David Silver's Reinforcement Learning Course",
     "Link": "https://github.com/dennybritz/reinforcement-learning",
