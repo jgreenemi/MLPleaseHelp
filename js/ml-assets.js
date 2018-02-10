@@ -20,6 +20,13 @@ Note:
 
 var mlAssets = [
 {
+    "Name": "MIT AGI: Artificial General Intelligence",
+    "Description": "This is the opening lecture for course 6.S099: Artificial General Intelligence. This class is free and open to everyone. Our goal is to take an engineering approach to exploring possible paths toward building human-level intelligence for a better world.",
+    "Link": "https://www.youtube.com/watch?v=-GV_A9Js2nM",
+    "Keywords": "education,class,lecture",
+    "LastUpdatedDate": "2018/2/10",
+},
+{
     "Name": "ANDREW TULLOCH — Machine Learning, Statistics, Systems",
     "Description": "Blog of Andrew Tulloch on mathematics, data science and machine learning.",
     "Link": "http://tullo.ch/",
