@@ -20,10 +20,10 @@ Note:
 
 var mlAssets = [
 {
-    "Name": "MIT AGI: Artificial General Intelligence",
+    "Name": "MIT AGI: Artificial General Intelligence with Lex Fridman",
     "Description": "This is the opening lecture for course 6.S099: Artificial General Intelligence. This class is free and open to everyone. Our goal is to take an engineering approach to exploring possible paths toward building human-level intelligence for a better world.",
     "Link": "https://www.youtube.com/watch?v=-GV_A9Js2nM",
-    "Keywords": "education,class,lecture",
+    "Keywords": "education,class,lecture,video",
     "LastUpdatedDate": "2018/2/10",
 },
 {
