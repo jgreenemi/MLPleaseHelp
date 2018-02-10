@@ -20,6 +20,13 @@ Note:
 
 var mlAssets = [
 {
+    "Name": "Support Vector Machines From Scratch Part 1: Beginning intuition",
+    "Description": "Sam Kirkiles gives an introductory blog post on SVMs.",
+    "Link": "https://medium.com/samkirkiles/support-vector-machines-from-scratch-part-1-intuition-c1e6a0ac026b",
+    "Keywords": "svm,blog,reading",
+    "LastUpdatedDate": "2018/2/10",
+},
+{
     "Name": "MIT AGI: Artificial General Intelligence with Lex Fridman",
     "Description": "This is the opening lecture for course 6.S099: Artificial General Intelligence. This class is free and open to everyone. Our goal is to take an engineering approach to exploring possible paths toward building human-level intelligence for a better world.",
     "Link": "https://www.youtube.com/watch?v=-GV_A9Js2nM",
