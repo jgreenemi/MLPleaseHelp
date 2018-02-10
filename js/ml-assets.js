@@ -20,6 +20,13 @@ Note:
 
 var mlAssets = [
 {
+    "Name": "ANDREW TULLOCH — Machine Learning, Statistics, Systems",
+    "Description": "Blog of Andrew Tulloch on mathematics, data science and machine learning.",
+    "Link": "http://tullo.ch/",
+    "Keywords": "blog, reading, Facebook",
+    "LastUpdatedDate": "2018/2/10",
+},
+{
     "Name": " Attacking Machine Learning with Adversarial Examples",
     "Description": "Adversarial examples are inputs to machine learning models that an attacker has intentionally designed to cause the model to make a mistake; they’re like optical illusions for machines. In this post we’ll show how adversarial examples work across different mediums, and will discuss why securing systems against them can be difficult.",
     "Link": "https://blog.openai.com/adversarial-example-research/",
