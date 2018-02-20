@@ -20,6 +20,20 @@ Note:
 
 var mlAssets = [
 {
+    "Name": "Machine Learning Applications",
+    "Description": "Machine learning application to practical problems such us time series prediction, price stock data prediction, text mining",
+    "Link": "intelligentonlinetools.com/blog/",
+    "Keywords": "machine learning, neural net, classification, stock data prediction",
+    "LastUpdatedDate": "2018/2/18",
+},
+{
+    "Name": "Text Analytics Techniques",
+    "Description": "Text analytics techniques with word embeddings",
+    "Link": "ai.intelligentonlinetools.com/ml/",
+    "Keywords": "word embeddings, fasttext, word2vec, glove",
+    "LastUpdatedDate": "2018/2/18",
+},
+{
     "Name": "Support Vector Machines From Scratch Part 1: Beginning intuition",
     "Description": "Sam Kirkiles gives an introductory blog post on SVMs.",
     "Link": "https://medium.com/samkirkiles/support-vector-machines-from-scratch-part-1-intuition-c1e6a0ac026b",
