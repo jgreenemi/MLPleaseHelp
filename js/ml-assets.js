@@ -22,14 +22,14 @@ var mlAssets = [
 {
     "Name": "Machine Learning Applications",
     "Description": "Machine learning application to practical problems such us time series prediction, price stock data prediction, text mining",
-    "Link": "intelligentonlinetools.com/blog/",
+    "Link": "http://intelligentonlinetools.com/blog/",
     "Keywords": "machine learning, neural net, classification, stock data prediction",
     "LastUpdatedDate": "2018/2/18",
 },
 {
     "Name": "Text Analytics Techniques",
     "Description": "Text analytics techniques with word embeddings",
-    "Link": "ai.intelligentonlinetools.com/ml/",
+    "Link": "http://ai.intelligentonlinetools.com/ml/",
     "Keywords": "word embeddings, fasttext, word2vec, glove",
     "LastUpdatedDate": "2018/2/18",
 },
