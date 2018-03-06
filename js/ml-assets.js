@@ -20,6 +20,13 @@ Note:
 
 var mlAssets = [
 {
+    "Name": "Matplotlib: Writing mathematical expressions",
+    "Description": "Examples of text rendering with LaTeX in Python",
+    "Link": "https://matplotlib.org/users/mathtext.html",
+    "Keywords": "math,examples,library,reference,how-to,LaTeX",
+    "LastUpdatedDate": "2018/3/5",
+},
+{
     "Name": "Machine Learning Applications",
     "Description": "Machine learning application to practical problems such us time series prediction, price stock data prediction, text mining",
     "Link": "http://intelligentonlinetools.com/blog/",
