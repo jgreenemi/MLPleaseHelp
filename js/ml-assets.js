@@ -20,6 +20,13 @@ Note:
 
 var mlAssets = [
 {
+    "Name": "burrsettles/ml-talks-duolingo",
+    "Description": "Example code from Duolingo's internal machine learning dev talk series",
+    "Link": "https://github.com/burrsettles/ml-talks-duolingo",
+    "Keywords": "examples,Python,Rlang,sklearn,scikit-learn",
+    "LastUpdatedDate": "2018/3/11",
+},
+{
     "Name": "zotroneneis/machine_learning_basics",
     "Description": "Plain python implementations of basic machine learning algorithms",
     "Link": "https://github.com/zotroneneis/machine_learning_basics",
