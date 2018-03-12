@@ -20,6 +20,13 @@ Note:
 
 var mlAssets = [
 {
+    "Name": "101 NumPy Exercises for Data Analysis (Python)",
+    "Description": "The goal of the numpy exercises is to serve as a reference as well as to get you to apply numpy beyond the basics. The questions are of 4 levels of difficulties with L1 being the easiest to L4 being the hardest.",
+    "Link": "https://www.machinelearningplus.com/101-numpy-exercises-python/",
+    "Keywords": "tutorials,examples,practice,numpy",
+    "LastUpdatedDate": "2018/3/11",
+},
+{
     "Name": "A (Not So) Short Introduction to LATEX",
     "Description": "\"lshort-english\" - If you want to learn how to write your documents with LaTeX, this introduction is for you. It is not about setting up a LaTeX system. While it is not as comprehensive as Lamport's book, it should be sufficient in most cases.",
     "Link": "https://ctan.org/tex-archive/info/lshort/english/?lang=en",
