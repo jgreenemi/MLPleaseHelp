@@ -20,6 +20,13 @@ Note:
 
 var mlAssets = [
 {
+    "Name": "The Keras Blog: Building powerful image classification models using very little data",
+    "Description": "In this tutorial, we will present a few simple yet effective methods that you can use to build a powerful image classifier, using only very few training examples --just a few hundred or thousand pictures from each class you want to be able to recognize.",
+    "Link": "https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html",
+    "Keywords": "tutorials,examples,keras,python,blog,reading",
+    "LastUpdatedDate": "2018/3/11",
+},
+{
     "Name": "burrsettles/ml-talks-duolingo",
     "Description": "Example code from Duolingo's internal machine learning dev talk series",
     "Link": "https://github.com/burrsettles/ml-talks-duolingo",
