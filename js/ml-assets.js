@@ -20,6 +20,13 @@ Note:
 
 var mlAssets = [
 {
+    "Name": "A (Not So) Short Introduction to LATEX",
+    "Description": "\"lshort-english\" - If you want to learn how to write your documents with LaTeX, this introduction is for you. It is not about setting up a LaTeX system. While it is not as comprehensive as Lamport's book, it should be sufficient in most cases.",
+    "Link": "https://ctan.org/tex-archive/info/lshort/english/?lang=en",
+    "Keywords": "reading,latex,examples,tutorials,reference,PDF",
+    "LastUpdatedDate": "2018/3/11",
+},
+{
     "Name": "mikelane/Perceptrons",
     "Description": "Helpful hints for CS545 Homework 1: Classifying MNIST Digits using a Perceptron",
     "Link": "https://github.com/mikelane/Perceptrons/",
