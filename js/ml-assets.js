@@ -20,6 +20,13 @@ Note:
 
 var mlAssets = [
 {
+    "Name": "mikelane/Perceptrons",
+    "Description": "Helpful hints for CS545 Homework 1: Classifying MNIST Digits using a Perceptron",
+    "Link": "https://github.com/mikelane/Perceptrons/",
+    "Keywords": "examples,python,reading,sklearn,scikit-learn,pandas,numpy",
+    "LastUpdatedDate": "2018/3/11",
+},
+{
     "Name": "The Keras Blog: Building powerful image classification models using very little data",
     "Description": "In this tutorial, we will present a few simple yet effective methods that you can use to build a powerful image classifier, using only very few training examples --just a few hundred or thousand pictures from each class you want to be able to recognize.",
     "Link": "https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html",
