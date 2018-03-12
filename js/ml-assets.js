@@ -20,6 +20,13 @@ Note:
 
 var mlAssets = [
 {
+    "Name": "zotroneneis/machine_learning_basics",
+    "Description": "Plain python implementations of basic machine learning algorithms",
+    "Link": "https://github.com/zotroneneis/machine_learning_basics",
+    "Keywords": "examples,python,basics",
+    "LastUpdatedDate": "2018/3/11",
+},
+{
     "Name": "Matplotlib: Writing mathematical expressions",
     "Description": "Examples of text rendering with LaTeX in Python",
     "Link": "https://matplotlib.org/users/mathtext.html",
