@@ -20,6 +20,27 @@ Note:
 
 var mlAssets = [
 {
+    "Name": "Registry of Open Data on AWS",
+    "Description": "This registry exists to help people discover and share datasets that are available via AWS resources. If you want to add a dataset or example of how to use a dataset to this registry, please follow the instructions on the Registry of Open Data on AWS GitHub repository.",
+    "Link": "https://registry.opendata.aws/",
+    "Keywords": "datasets,repo",
+    "LastUpdatedDate": "2018/4/30",
+},
+{
+    "Name": "DMLC",
+    "Description": " DMLC is a group to collaborate on open-source machine learning projects, with a goal of making cutting-edge large-scale machine learning widely available. The contributors includes researchers, PhD students and data scientists who are actively working on the field.",
+    "Link": "http://dmlc.ml/",
+    "Keywords": "blog,reading,rss",
+    "LastUpdatedDate": "2018/4/30",
+},
+{
+    "Name": "ray-project/ray",
+    "Description": "A high-performance distributed execution engine, developed by The Ray Team from UC Berkeley",
+    "Link": "https://github.com/ray-project/ray",
+    "Keywords": "tool,python,C++",
+    "LastUpdatedDate": "2018/4/30",
+},
+{
     "Name": "101 NumPy Exercises for Data Analysis (Python)",
     "Description": "The goal of the numpy exercises is to serve as a reference as well as to get you to apply numpy beyond the basics. The questions are of 4 levels of difficulties with L1 being the easiest to L4 being the hardest.",
     "Link": "https://www.machinelearningplus.com/101-numpy-exercises-python/",
