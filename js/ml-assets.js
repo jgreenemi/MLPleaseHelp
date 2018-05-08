@@ -20,6 +20,13 @@ Note:
 
 var mlAssets = [
 {
+    "Name": "Patsy: Contrast Coding Systems for categorical variables",
+    "Description": "A resource comparing and giving examples of various coding approaches.",
+    "Link": "http://www.statsmodels.org/devel/contrasts.html",
+    "Keywords": "examples,Python,reading,article,UCLA,",
+    "LastUpdatedDate": "2018/5/7",
+},
+{
     "Name": "Registry of Open Data on AWS",
     "Description": "This registry exists to help people discover and share datasets that are available via AWS resources. If you want to add a dataset or example of how to use a dataset to this registry, please follow the instructions on the Registry of Open Data on AWS GitHub repository.",
     "Link": "https://registry.opendata.aws/",
