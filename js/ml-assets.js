@@ -20,6 +20,27 @@ Note:
 
 var mlAssets = [
 {
+    "Name": "Maximum Likelihood, Logistic Regression, and Stochastic Gradient Training",
+    "Description": "Direct PDF link to course notes by Charles Elkan on logistic regression, maximum likelihood estimation (MLE), stochastic gradient descent (SGD), and regularization.",
+    "Link": "http://cseweb.ucsd.edu/~elkan/250B/logreg.pdf",
+    "Keywords": "reading,course notes,Charles Elkan,math,algebra",
+    "LastUpdatedDate": "2018/7/24",
+},
+{
+    "Name": "Pattern Recognition and Machine Learning (Information Science and Statistics)",
+    "Description": "(by Christopher M. Bishop) This is the first textbook on pattern recognition to present the Bayesian viewpoint. The book presents approximate inference algorithms that permit fast approximate answers in situations where exact answers are not feasible. It uses graphical models to describe probability distributions when no other books apply graphical models to machine learning. No previous knowledge of pattern recognition or machine learning concepts is assumed. Familiarity with multivariate calculus and basic linear algebra is required, and some experience in the use of probabilities would be helpful though not essential as the book includes a self-contained introduction to basic probability theory.",
+    "Link": "https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738",
+    "Keywords": "book,reading,textbook,Bayesian",
+    "LastUpdatedDate": "2018/7/24",
+},
+{
+    "Name": "Introduction to Statistical Learning",
+    "Description": "This book provides an introduction to statistical learning methods. It is aimed for upper level undergraduate students, masters students and Ph.D. students in the non-mathematical sciences. The book also contains a number of R labs with detailed explanations on how to implement the various methods in real life settings, and should be a valuable resource for a practicing data scientist.",
+    "Link": "http://www-bcf.usc.edu/~gareth/ISL/",
+    "Keywords": "reading,book,Gareth James, Daniela Witten, Trevor Hastie,Robert Tibshirani,Rlang,",
+    "LastUpdatedDate": "2018/7/23",
+},
+{
     "Name": "Magenta: Multitrack MusicVAE: Interactively Exploring Musical Styles",
     "Description": "In this post, we demonstrate the use of MusicVAE to model a particular type of sequence: individual measures of General MIDI music with optional underlying chords.",
     "Link": "https://magenta.tensorflow.org/multitrack",
