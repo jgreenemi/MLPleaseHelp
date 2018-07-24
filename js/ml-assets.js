@@ -20,6 +20,34 @@ Note:
 
 var mlAssets = [
 {
+    "Name": "Magenta: Multitrack MusicVAE: Interactively Exploring Musical Styles",
+    "Description": "In this post, we demonstrate the use of MusicVAE to model a particular type of sequence: individual measures of General MIDI music with optional underlying chords.",
+    "Link": "https://magenta.tensorflow.org/multitrack",
+    "Keywords": "reading,projects,examples,code,tools,blog,Google,Magenta,audio,Ian Simon,@iansimon,Adam Roberts,@adarob,@ada_rob,Colin Raffel,@craffel,@colinraffel,Jesse Engel,@jesseengel,@jesseengel,Curtis Hawthorne,@cghawthorne,@fjord41",
+    "LastUpdatedDate": "2018/7/23",
+},
+{
+    "Name": "Papers with Code",
+    "Description": "Machine learning research papers with accompanying code.",
+    "Link": "https://paperswithcode.com/",
+    "Keywords": "examples,papers,research,code,reading,@rbstojnic, @rosstaylor90",
+    "LastUpdatedDate": "2018/7/23",
+},
+{
+    "Name": "Audio texture synthesis and style transfer",
+    "Description": "We present an extension of texture synthesis and style transfer method of Leon Gatys et al. for audio. We have developed the same code for three frameworks (well, it is cold in Moscow), choose your favorite:  Torch	TensorFlow	Lasagne",
+    "Link": "https://dmitryulyanov.github.io/audio-texture-synthesis-and-style-transfer/",
+    "Keywords": "blog,reading,Dmitry Ulyanov,Vadim Lebedev,audio",
+    "LastUpdatedDate": "2018/7/23",
+},
+{
+    "Name": "DistrictDataLabs/yellowbrick",
+    "Description": "Visual analysis and diagnostic tools to facilitate machine learning model selection.",
+    "Link": "https://github.com/DistrictDataLabs/yellowbrick/blob/develop/README.md",
+    "Keywords": "Python,tools,visualizers,visualization",
+    "LastUpdatedDate": "2018/7/23",
+},
+{
     "Name": "Patsy: Contrast Coding Systems for categorical variables",
     "Description": "A resource comparing and giving examples of various coding approaches.",
     "Link": "http://www.statsmodels.org/devel/contrasts.html",
